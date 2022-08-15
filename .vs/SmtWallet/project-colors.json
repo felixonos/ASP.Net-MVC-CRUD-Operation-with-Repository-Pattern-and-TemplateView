@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c879319a-096d-43da-b5c3-257d06f4dff5": {
+      "ProjectGuid": "c879319a-096d-43da-b5c3-257d06f4dff5",
+      "DisplayName": "SmtWallet.Web",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b42b789c-f24a-4e81-a6ff-f39c2c8eb09a": {
+      "ProjectGuid": "b42b789c-f24a-4e81-a6ff-f39c2c8eb09a",
+      "DisplayName": "SmtWallet.Console",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

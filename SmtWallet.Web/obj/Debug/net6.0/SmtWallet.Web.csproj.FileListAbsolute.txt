@@ -1,0 +1,124 @@
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.staticwebassets.runtime.json
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.exe
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.deps.json
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.pdb
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\scopedcss\bundle\SmtWallet.Web.styles.css
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\scopedcss\projectbundle\SmtWallet.Web.bundle.scp.css
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\refint\SmtWallet.Web.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.pdb
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\ref\SmtWallet.Web.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\appsettings.json
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.staticwebassets.runtime.json
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.exe
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.deps.json
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.runtimeconfig.json
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\ref\SmtWallet.Web.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\SmtWallet.Web.pdb
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Humanizer.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.csproj.AssemblyReference.cache
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.AssemblyInfoInputs.cache
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.AssemblyInfo.cs
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.csproj.CoreCompileInputs.cache
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.RazorAssemblyInfo.cache
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.RazorAssemblyInfo.cs
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\scopedcss\bundle\SmtWallet.Web.styles.css
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\scopedcss\projectbundle\SmtWallet.Web.bundle.scp.css
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.csproj.CopyComplete
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\ref\SmtWallet.Web.dll
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.pdb
+D:\web development folder\SmtWallet\SmtWallet.Web\obj\Debug\net6.0\SmtWallet.Web.genruntimeconfig.cache
